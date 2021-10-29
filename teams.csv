@@ -1,250 +1,250 @@
-Team_id,Teams,League_id
-701,Sporting CP,700
-702,SL Benfica,700
-703,FC Porto,700
-704,Vitória Guimarães SC,700
-705,Belenenses SAD,700
-706,Vitória Setúbal FC,700
-707,SC Braga,700
-708,Boavista FC,700
-709,Académica Coimbra,700
-710,CS Marítimo,700
-711,Rio Ave FC,700
-712,SC Beira-Mar,700
-713,SC Farense,700
-714,Leixões SC,700
-715,Varzim SC,700
-716,SC Salgueiros,700
-717,CD da CUF Barreiro,700
-718,FC Paços de Ferreira,700
-719,Gil Vicente FC,700
-720,CD Nacional,700
-721,GD Estoril Praia,700
-722,União de Leiria,700
-723,Portimonense SC,700
-724,CF Estrela Amadora SAD,700
-725,GD Chaves,700
-726,FC Barreirense,700
-727,FC Penafiel,700
-728,Atlético CP,700
-729,SC Espinho,700
-730,Lusitano GC,700
-731,Moreirense FC,700
-732,SC Olhanense,700
-733,nan,700
-734,FC Tirsense,700
-735,Sporting Covilhã,700
-736,FC Famalicão,700
-737,CD Feirense,700
-738,União Tomar,700
-739,CF União Madeira,700
-740,União Torreense,700
-741,Desportivo Aves,700
-742,CD Santa Clara,700
-743,CD Tondela,700
-744,FC Alverca,700
-745,SC Campomaiorense,700
-746,Naval 1º de Maio,700
-747,Oriental de Lisboa,700
-748,Académico de Viseu,700
-749,FC Arouca,700
-750,Caldas SC,700
-751,Montijo,700
-752,Amora FC,700
-753,Leça FC,700
-754,AD Sanjoanense,700
-755,O Elvas,700
-756,Seixal,700
-757,FC Vizela,700
-758,União Coimbra,700
-759,CD Trofense,700
-760,FC Felgueiras 1932,700
-761,AD Fafe,700
-762,R.D. Águeda,700
-763,GC Alcobaça,700
-764,GD Riopele,700
-801,São Paulo FC,800
-802,Flamengo RJ,800
-803,Fluminense RJ,800
-804,Santos FC,800
-805,Athletico Paranaense,800
-806,Corinthians SP,800
-807,Atlético Mineiro,800
-808,Internacional,800
-809,Grêmio Porto Alegre,800
-810,Cruzeiro,800
-811,Botafogo - RJ,800
-812,Palmeiras,800
-813,Vasco da Gama,800
-814,Coritiba FC,800
-815,Goiás,800
-816,Figueirense - SC,800
-817,Vitória - BA,800
-818,Sport - PE,800
-819,Bahia - BA,800
-820,Ponte Preta,800
-821,Chapecoense,800
-822,Paraná Clube,800
-823,Avaí - SC,800
-824,Ceará - CE,800
-825,Juventude - RS,800
-826,Fortaleza,800
-827,Náutico - PE,800
-828,Atlético Goianiense,800
-829,São Caetano - SP,800
-830,Criciúma - SC,800
-831,Paysandu - PA,800
-832,Portuguesa - SP,800
-833,Guarani - SP,800
-834,América - MG,800
-835,Santa Cruz - PE,800
-836,Joinville - SC,800
-837,Red Bull Bragantino,800
-838,América - RN,800
-839,CSA - AL,800
-840,Ipatinga FC,800
-841,Grêmio Barueri - SP,800
-842,Grêmio Prudente,800
-843,Brasiliense - DF,800
-844,Santo André - SP,800
-601,Ajax Amsterdam,600
-602,PSV Eindhoven,600
-603,Sparta Rotterdam,600
-604,FC Twente,600
-605,FC Utrecht,600
-606,NAC Breda,600
-607,Feyenoord Rotterdam,600
-608,Willem II,600
-609,Roda JC Kerkrade,600
-610,AZ Alkmaar,600
-611,FC Groningen,600
-612,NEC Nijmegen,600
-613,Vitesse,600
-614,MVV Maastricht,600
-615,ADO Den Haag,600
-616,Go Ahead Eagles,600
-617,sc Heerenveen,600
-618,FC Volendam,600
-619,RKC Waalwijk,600
-620,VVV-Venlo,600
-621,SBV Excelsior,600
-622,De Graafschap,600
-623,Heracles Almelo,600
-624,Fortuna Sittard,600
-625,Feijenoord,600
-626,DOS Utrecht,600
-627,Telstar,600
-628,DWS Amsterdam,600
-629,PEC Zwolle,600
-630,Fortuna '54,600
-631,FC Den Haag,600
-632,Sportclub Enschede,600
-633,SBV Haarlem,600
-634,HFC Haarlem,600
-635,USV Elinkwijk,600
-636,SC Cambuur,600
-637,Groninger VAV,600
-638,FC Den Bosch '67,600
-639,PEC Zwolle '82,600
-640,FC Amsterdam,600
-641,Blauw Wit,600
-642,Rapid JC Heerlen,600
-643,GVAV Groningen,600
-644,RBC Roosendaal,600
-645,FC Den Haag-ADO,600
-646,Sittardia,600
-647,FC Den Bosch,600
-648,NOAD Tilburg,600
-649,FC Emmen,600
-650,SC Eindhoven,600
-651,Holland Sport,600
-652,BVV,600
-653,SVV Schiedam,600
-654,Helmond Sport,600
-655,BV Veendam,600
-656,FC Zwolle,600
-657,Drechtsteden '79,600
-658,Dordrecht '90,600
-659,BVC Amsterdam,600
-660,De Volewijckers,600
-661,BVV Den Bosch,600
-662,VV Alkmaar '54,600
-663,FC Xerxes,600
-664,FC Wageningen,600
-665,FC Dordrecht,600
-666,WVV Wageningen,600
-667,FSC Geleen,600
-668,SHS,600
-669,Xerxes/D.H.C.,600
-670,S.V.V./Dordrecht '90,600
-501,SV Werder Bremen,500
-502,Bayern Munich,500
-503,Hamburger SV,500
-504,VfB Stuttgart,500
-505,Borussia Dortmund,500
-506,FC Schalke 04,500
-507,Borussia Mönchengladbach,500
-508,Eintracht Frankfurt,500
-509,1. FC Köln,500
-510,1.FC Kaiserslautern,500
-511,Bayer Leverkusen,500
-512,Hertha BSC,500
-513,VfL Bochum,500
-514,1.FC Nuremberg,500
-515,Hannover 96,500
-516,VfL Wolfsburg,500
-517,Fortuna Düsseldorf,500
-518,Karlsruher SC,500
-519,MSV Duisburg,500
-520,SC Freiburg,500
-521,Eintracht Braunschweig,500
-522,TSV 1860 Munich,500
-523,Arminia Bielefeld,500
-524,1.FSV Mainz 05,500
-525,TSG 1899 Hoffenheim,500
-526,Bay. Uerdingen,500
-527,FC Hansa Rostock,500
-528,FC Augsburg,500
-529,FC St. Pauli,500
-530,RW Essen,500
-531,Waldh. Mannheim,500
-532,K. Offenbach,500
-533,FC Energie Cottbus,500
-534,RB Leipzig,500
-535,Saarbrücken,500
-536,RW Oberhausen,500
-537,Alemannia Aachen,500
-538,SV Darmstadt 98,500
-539,Wattenscheid 09,500
-540,Meidericher SV,500
-541,B. Neunkirchen,500
-542,Dynamo Dresden,500
-543,FC 08 Homburg,500
-544,Wuppertaler SV,500
-545,1.FC Union Berlin,500
-546,FC Ingolstadt 04,500
-547,Stuttg. Kickers,500
-548,TeBe Berlin,500
-549,SC Paderborn 07,500
-550,SpVgg Unterhaching,500
-551,Arm. Bielefeld *,500
-552,Preußen Münster,500
-553,VfB Leipzig,500
-554,SC Fortuna Köln,500
-555,SpVgg Greuther Fürth,500
-556,SSV Ulm 1846,500
-557,Tasmania Berlin,500
-558,Dynamo Dresden *,500
-559,KFC Uerdingen 05,500
-560,BW Berlin,500
+Team_id,Teams,Country_id
+7001,SL Benfica,700
+7002,FC Porto,700
+7003,Sporting CP,700
+7004,Vitória Guimarães SC,700
+7005,Belenenses SAD,700
+7006,Vitória Setúbal FC,700
+7007,SC Braga,700
+7008,Boavista FC,700
+7009,Académica Coimbra,700
+7010,CS Marítimo,700
+7011,Rio Ave FC,700
+7012,SC Beira-Mar,700
+7013,SC Farense,700
+7014,Leixões SC,700
+7015,CD da CUF Barreiro,700
+7016,Varzim SC,700
+7017,FC Paços de Ferreira,700
+7018,SC Salgueiros,700
+7019,Gil Vicente FC,700
+7020,nan,700
+7021,CD Nacional,700
+7022,GD Estoril Praia,700
+7023,União de Leiria,700
+7024,Portimonense SC,700
+7025,GD Chaves,700
+7026,CF Estrela Amadora SAD,700
+7027,FC Barreirense,700
+7028,FC Penafiel,700
+7029,Atlético CP,700
+7030,Lusitano GC,700
+7031,Moreirense FC,700
+7032,SC Espinho,700
+7033,SC Olhanense,700
+7034,FC Tirsense,700
+7035,Sporting Covilhã,700
+7036,FC Famalicão,700
+7037,CD Feirense,700
+7038,Desportivo Aves,700
+7039,CF União Madeira,700
+7040,União Torreense,700
+7041,União Tomar,700
+7042,CD Santa Clara,700
+7043,CD Tondela,700
+7044,FC Alverca,700
+7045,SC Campomaiorense,700
+7046,Naval 1º de Maio,700
+7047,FC Arouca,700
+7048,Oriental de Lisboa,700
+7049,Académico de Viseu,700
+7050,Caldas SC,700
+7051,Montijo,700
+7052,Leça FC,700
+7053,AD Sanjoanense,700
+7054,Amora FC,700
+7055,O Elvas,700
+7056,Seixal,700
+7057,CD Trofense,700
+7058,GD Riopele,700
+7059,R.D. Águeda,700
+7060,União Coimbra,700
+7061,FC Vizela,700
+7062,FC Felgueiras 1932,700
+7063,AD Fafe,700
+7064,GC Alcobaça,700
+8001,São Paulo FC,800
+8002,Santos FC,800
+8003,Flamengo RJ,800
+8004,Fluminense RJ,800
+8005,Athletico Paranaense,800
+8006,Corinthians SP,800
+8007,Grêmio Porto Alegre,800
+8008,Internacional,800
+8009,Cruzeiro,800
+8010,Atlético Mineiro,800
+8011,Botafogo - RJ,800
+8012,Palmeiras,800
+8013,Vasco da Gama,800
+8014,Goiás,800
+8015,Coritiba FC,800
+8016,Figueirense - SC,800
+8017,Sport - PE,800
+8018,Vitória - BA,800
+8019,Ponte Preta,800
+8020,Bahia - BA,800
+8021,Chapecoense,800
+8022,Avaí - SC,800
+8023,Paraná Clube,800
+8024,Juventude - RS,800
+8025,Atlético Goianiense,800
+8026,Fortaleza,800
+8027,Ceará - CE,800
+8028,Náutico - PE,800
+8029,Criciúma - SC,800
+8030,São Caetano - SP,800
+8031,América - MG,800
+8032,Portuguesa - SP,800
+8033,Guarani - SP,800
+8034,Paysandu - PA,800
+8035,Santa Cruz - PE,800
+8036,Grêmio Prudente,800
+8037,Brasiliense - DF,800
+8038,Joinville - SC,800
+8039,Red Bull Bragantino,800
+8040,Santo André - SP,800
+8041,Grêmio Barueri - SP,800
+8042,América - RN,800
+8043,Ipatinga FC,800
+8044,CSA - AL,800
+6001,Ajax Amsterdam,600
+6002,PSV Eindhoven,600
+6003,Sparta Rotterdam,600
+6004,FC Twente,600
+6005,FC Utrecht,600
+6006,NAC Breda,600
+6007,Feyenoord Rotterdam,600
+6008,Willem II,600
+6009,Roda JC Kerkrade,600
+6010,AZ Alkmaar,600
+6011,FC Groningen,600
+6012,NEC Nijmegen,600
+6013,MVV Maastricht,600
+6014,Vitesse,600
+6015,ADO Den Haag,600
+6016,Go Ahead Eagles,600
+6017,sc Heerenveen,600
+6018,RKC Waalwijk,600
+6019,FC Volendam,600
+6020,VVV-Venlo,600
+6021,SBV Excelsior,600
+6022,Fortuna Sittard,600
+6023,Heracles Almelo,600
+6024,De Graafschap,600
+6025,Feijenoord,600
+6026,DOS Utrecht,600
+6027,Telstar,600
+6028,PEC Zwolle,600
+6029,DWS Amsterdam,600
+6030,Fortuna '54,600
+6031,FC Den Haag,600
+6032,SBV Haarlem,600
+6033,HFC Haarlem,600
+6034,Sportclub Enschede,600
+6035,FC Den Bosch '67,600
+6036,Groninger VAV,600
+6037,SC Cambuur,600
+6038,USV Elinkwijk,600
+6039,PEC Zwolle '82,600
+6040,Blauw Wit,600
+6041,Rapid JC Heerlen,600
+6042,FC Amsterdam,600
+6043,GVAV Groningen,600
+6044,RBC Roosendaal,600
+6045,FC Den Haag-ADO,600
+6046,FC Den Bosch,600
+6047,NOAD Tilburg,600
+6048,Sittardia,600
+6049,SC Eindhoven,600
+6050,FC Emmen,600
+6051,Holland Sport,600
+6052,Dordrecht '90,600
+6053,Helmond Sport,600
+6054,BVV Den Bosch,600
+6055,Drechtsteden '79,600
+6056,BV Veendam,600
+6057,FC Zwolle,600
+6058,SVV Schiedam,600
+6059,BVC Amsterdam,600
+6060,BVV,600
+6061,De Volewijckers,600
+6062,SHS,600
+6063,FC Dordrecht,600
+6064,FC Xerxes,600
+6065,WVV Wageningen,600
+6066,FC Wageningen,600
+6067,VV Alkmaar '54,600
+6068,Xerxes/D.H.C.,600
+6069,S.V.V./Dordrecht '90,600
+6070,FSC Geleen,600
+5001,SV Werder Bremen,500
+5002,FC Bayern,500
+5003,Hamburger SV,500
+5004,VfB Stuttgart,500
+5005,Borussia Dortmund,500
+5006,Borussia Mönchengladbach,500
+5007,FC Schalke 04,500
+5008,Eintracht Frankfurt,500
+5009,1. FC Köln,500
+5010,1.FC Kaiserslautern,500
+5011,Bayer Leverkusen,500
+5012,Hertha BSC,500
+5013,VfL Bochum,500
+5014,1.FC Nuremberg,500
+5015,Hannover 96,500
+5016,Fortuna Düsseldorf,500
+5017,MSV Duisburg,500
+5018,VfL Wolfsburg,500
+5019,Karlsruher SC,500
+5020,SC Freiburg,500
+5021,Eintracht Braunschweig,500
+5022,TSV 1860 Munich,500
+5023,Arminia Bielefeld,500
+5024,1.FSV Mainz 05,500
+5025,TSG 1899 Hoffenheim,500
+5026,Bay. Uerdingen,500
+5027,FC Hansa Rostock,500
+5028,FC Augsburg,500
+5029,FC St. Pauli,500
+5030,Waldh. Mannheim,500
+5031,K. Offenbach,500
+5032,RW Essen,500
+5033,FC Energie Cottbus,500
+5034,RB Leipzig,500
+5035,Saarbrücken,500
+5036,Wattenscheid 09,500
+5037,Alemannia Aachen,500
+5038,RW Oberhausen,500
+5039,Meidericher SV,500
+5040,SV Darmstadt 98,500
+5041,Wuppertaler SV,500
+5042,B. Neunkirchen,500
+5043,Dynamo Dresden,500
+5044,FC 08 Homburg,500
+5045,SC Paderborn 07,500
+5046,FC Ingolstadt 04,500
+5047,1.FC Union Berlin,500
+5048,SpVgg Unterhaching,500
+5049,Stuttg. Kickers,500
+5050,TeBe Berlin,500
+5051,SpVgg Greuther Fürth,500
+5052,KFC Uerdingen 05,500
+5053,Dynamo Dresden *,500
+5054,Tasmania Berlin,500
+5055,SC Fortuna Köln,500
+5056,BW Berlin,500
+5057,SSV Ulm 1846,500
+5058,Arm. Bielefeld *,500
+5059,VfB Leipzig,500
+5060,Preußen Münster,500
 401,LOSC Lille,400
 402,Olympique Marseille,400
 403,AS Saint-Étienne,400
 404,Girondins Bordeaux,400
 405,FC Sochaux,400
-406,Olympique Lyon,400
-407,AS Monaco,400
-408,Stade Rennais FC,400
+406,Stade Rennais FC,400
+407,Olympique Lyon,400
+408,AS Monaco,400
 409,OGC Nice,400
 410,FC Metz,400
 411,RC Strasbourg,400
@@ -262,256 +262,312 @@ Team_id,Teams,League_id
 423,Racing Club de France,400
 424,US Valenciennes-Anzin,400
 425,AC Le Havre,400
-426,FC Rouen,400
-427,SM Caen,400
+426,SM Caen,400
+427,FC Rouen,400
 428,AS Cannes,400
 429,Stade Brest,400
 430,FC Sète,400
 431,FC Lorient,400
-432,AC Ajaccio,400
-433,EA Guingamp,400
+432,EA Guingamp,400
+433,AC Ajaccio,400
 434,Stade Laval,400
-435,CS Sedan,400
-436,RC Roubaix,400
+435,RC Roubaix,400
+436,CS Sedan,400
 437,UA Sedan-Torcy,400
 438,Stade Français FC,400
 439,SC Toulon,400
-440,Red Star FC,400
-441,Valenciennes FC,400
-442,ESTAC Troyes,400
-443,Le Mans UC 72,400
-444,Dijon FCO,400
+440,ESTAC Troyes,400
+441,Red Star FC,400
+442,Valenciennes FC,400
+443,Dijon FCO,400
+444,Le Mans UC 72,400
 445,Excelsior Roubaix,400
 446,FC Antibes,400
-447,FC Mulhouse,400
+447,Olympique Alès,400
 448,Troyes AF,400
-449,Olympique Alès,400
-450,Grenoble Foot 38,400
-451,FC Évian Thonon Gaillard,400
-452,Red Star Olympique,400
+449,FC Mulhouse,400
+450,Red Star Olympique,400
+451,Grenoble Foot 38,400
+452,FC Évian Thonon Gaillard,400
 453,Tours FC,400
-454,AS Cannes-Grasse,400
-455,Sporting Club de Toulon,400
-456,FC Martigues,400
-457,Limoges FC,400
-458,Amiens SC,400
-459,AS Troyes-Savinienne,400
-460,AS Angoulême,400
+454,FC Martigues,400
+455,Limoges FC,400
+456,Amiens SC,400
+457,AS Angoulême,400
+458,AS Troyes-Savinienne,400
+459,AS Cannes-Grasse,400
+460,Sporting Club de Toulon,400
 461,Paris FC,400
-462,Red Star Olympique Audonien,400
-463,SC Nimes,400
-464,Stade Français,400
-465,Stade Red Star,400
-466,Matra Racing,400
-467,GFC Ajaccio,400
-468,FC Istres,400
-469,LB Châteauroux,400
-470,Stade de Paris FC,400
-471,SR Colmar,400
-472,CS Metz,400
-473,Association Sportive Avignonaise,400
-474,Athlétic Club Arlésien,400
-475,AS Béziers,400
-476,Chamois Niortais,400
-477,FC Gueugnon,400
-478,AS Aixoise,400
+462,Stade Red Star,400
+463,Red Star Olympique Audonien,400
+464,Matra Racing,400
+465,SC Nimes,400
+466,Stade Français,400
+467,AS Béziers,400
+468,FC Gueugnon,400
+469,Association Sportive Avignonaise,400
+470,FC Istres,400
+471,Stade de Paris FC,400
+472,GFC Ajaccio,400
+473,AS Aixoise,400
+474,US Boulogne,400
+475,SR Colmar,400
+476,LB Châteauroux,400
+477,CS Metz,400
+478,CA Paris (old),400
 479,ATAC Troyes,400
-480,CA Paris (old),400
-481,US Boulogne,400
-301,Inter,300
-302,AS Roma,300
-303,Juventus,300
-304,AC Milan,300
-305,ACF Fiorentina,300
-306,SS Lazio,300
-307,Torino FC,300
-308,SSC Napoli,300
-309,Bologna FC 1909,300
-310,Sampdoria,300
-311,Atalanta BC,300
-312,Genoa CFC,300
-313,Udinese Calcio,300
-314,Cagliari Calcio,300
-315,Hellas Verona,300
-316,US Palermo,300
-317,AS Bari,300
-318,Parma AC,300
-319,Brescia Calcio,300
-320,Unione Triestina,300
-321,Lanerossi Vicenza,300
-322,SPAL 2013 Ferrara,300
-323,Chievo Verona,300
-324,Calcio Catania,300
-325,Calcio Padova,300
-326,Ascoli Calcio 1898,300
-327,US Lecce,300
-328,US Alessandria 1912,300
-329,FC Empoli,300
-330,AC Cesena,300
-331,AC Perugia,300
-332,Como Calcio,300
-333,Aurora Pro Patria,300
-334,Modena FC,300
-335,US Foggia,300
-336,Novara Calcio 1908,300
-337,US Avellino,300
-338,US Livorno,300
-339,Reggina Calcio,300
-340,AC Siena,300
-341,Piacenza Calcio,300
-342,US Sassuolo,300
-343,AC Venezia,300
-344,Lucchese,300
-345,US Cremonese,300
-346,Pescara Calcio,300
-347,US Catanzaro,300
-348,AC Mantova,300
-349,Pisa SC,300
-350,AS Varese 1910,300
-351,AC Venezia 1907,300
-352,AS Livorno,300
-353,Pro Vercelli,300
-354,Casale,300
-355,AC Reggiana,300
-356,FC Messina,300
-357,Calcio Lecco 1912,300
-358,Sampierdarenese,300
-359,Legnano,300
-360,FC Crotone,300
-361,AC Liguria,300
-362,Ternana Calcio,300
-363,Benevento Calcio,300
-364,US Salernitana,300
-365,A.C.R. Messina,300
-366,AC Ancona,300
-367,Frosinone Calcio,300
-368,AC Pistoiese,300
-369,Carpi FC 1909,300
-370,Treviso FBC 1993,300
-371,Spezia Calcio,300
-201,Everton FC,200
-202,Aston Villa,200
-203,Liverpool FC,200
-204,Arsenal FC,200
-205,Manchester United,200
-206,Manchester City,200
-207,Newcastle United,200
-208,Chelsea FC,200
-209,Tottenham Hotspur,200
-210,Sunderland AFC,200
-211,West Bromwich Albion,200
-212,Bolton Wanderers,200
-213,Blackburn Rovers,200
-214,Sheffield Wednesday,200
-215,Wolverhampton Wanderers,200
-216,Derby County,200
-217,West Ham United,200
-218,Stoke City,200
-219,Sheffield United,200
-220,Middlesbrough FC,200
-221,Burnley FC,200
-222,Nottingham Forest,200
-223,Leicester City,200
-224,Leeds United,200
-225,Preston North End,200
-226,Southampton FC,200
-227,Coventry City,200
-228,Portsmouth FC,200
-229,Huddersfield Town,200
-230,Birmingham City,200
-231,Notts County,200
-232,Blackpool FC,200
-233,Fulham FC,200
-234,Norwich City,200
-235,Ipswich Town,200
-236,Birmingham FC,200
-237,Charlton Athletic,200
-238,Queens Park Rangers,200
-239,Bury FC,200
-240,Crystal Palace,200
-241,Cardiff City,200
-242,Luton Town,200
-243,Bradford City,200
-244,Wimbledon FC,200
-245,Watford FC,200
-246,Grimsby Town,200
-247,Oldham Athletic,200
-248,Swansea City,200
-249,Bristol City,200
-250,Wigan Athletic,200
-251,Brighton & Hove Albion,200
-252,Brentford FC,200
-253,AFC Bournemouth,200
-254,Hull City,200
-255,Accrington FC,200
-256,Reading FC,200
-257,Oxford United,200
-258,Darwen,200
-259,Millwall FC,200
-260,Leyton Orient,200
-261,Swindon Town,200
-262,Northampton Town,200
-263,Barnsley FC,200
-264,Glossop North End,200
-265,Carlisle United,200
-101,FC Barcelona,100
-102,Real Madrid,100
-103,Athletic Bilbao,100
-104,Valencia CF,100
-105,RCD Espanyol Barcelona,100
-106,Atlético Madrid,100
-107,Sevilla FC,100
-108,Real Sociedad,100
-109,Real Zaragoza,100
-110,Real Betis Balompié,100
-111,Celta De Vigo,100
-112,Deportivo de La Coruña,100
-113,Real Valladolid CF,100
-114,Racing Santander,100
-115,Sporting Gijón,100
-116,CA Osasuna,100
-117,Real Oviedo,100
-118,Málaga CF,100
-119,UD Las Palmas,100
-120,RCD Mallorca,100
-121,Granada CF,100
-122,Elche CF,100
-123,Villarreal CF,100
-124,Hércules CF,100
-125,Real Murcia CF,100
-126,Rayo Vallecano,100
-127,Getafe CF,100
-128,Deportivo Alavés,100
-129,Levante UD,100
-130,CE Sabadell,100
-131,Cádiz CF,100
-132,CD Tenerife,100
-133,UD Salamanca,100
-134,CD Castellón,100
-135,CD Logroñés,100
-136,Córdoba CF,100
-137,UD Almería,100
-138,Arenas de Getxo,100
-139,SD Eibar,100
-140,Albacete Balompié,100
-141,Burgos CF,100
-142,Pontevedra CF,100
-143,Recreativo Huelva,100
-144,Gimnàstic de Tarragona,100
-145,Real Unión,100
-146,CD Numancia,100
-147,SD Compostela,100
-148,CD Leganés,100
-149,CD Alcoyano,100
-150,Real Jaén,100
-151,Real Burgos,100
-152,CE Europa,100
-153,UE Lleida,100
-154,CP Mérida,100
-155,CF Extremadura,100
-156,Girona FC,100
-157,SD Huesca,100
-158,Xerez CD,100
-159,Atlético Tetuán,100
-160,CD Leonesa,100
-161,CD Condal,100
+480,Athlétic Club Arlésien,400
+481,Chamois Niortais,400
+482,Clermont Foot 63,400
+3001,Inter,300
+3002,Juventus,300
+3003,AS Roma,300
+3004,AC Milan,300
+3005,ACF Fiorentina,300
+3006,SS Lazio,300
+3007,Torino FC,300
+3008,SSC Napoli,300
+3009,Bologna FC 1909,300
+3010,Sampdoria,300
+3011,Atalanta BC,300
+3012,Genoa CFC,300
+3013,Udinese Calcio,300
+3014,Cagliari Calcio,300
+3015,Hellas Verona,300
+3016,US Palermo,300
+3017,AS Bari,300
+3018,Parma AC,300
+3019,Brescia Calcio,300
+3020,US Triestina,300
+3021,Lanerossi Vicenza,300
+3022,Chievo Verona,300
+3023,Calcio Catania,300
+3024,Ascoli Calcio 1898,300
+3025,SPAL Ferrara,300
+3026,Calcio Padova,300
+3027,US Lecce,300
+3028,US Alessandria 1912,300
+3029,AC Cesena,300
+3030,AC Perugia,300
+3031,FC Empoli,300
+3032,Como Calcio,300
+3033,Aurora Pro Patria,300
+3034,Novara Calcio 1908,300
+3035,Modena FC,300
+3036,US Foggia,300
+3037,US Avellino,300
+3038,AC Siena,300
+3039,Reggina Calcio,300
+3040,US Livorno,300
+3041,Piacenza Calcio,300
+3042,Lucchese,300
+3043,AC Venezia,300
+3044,US Sassuolo,300
+3045,US Catanzaro,300
+3046,US Cremonese,300
+3047,AC Mantova,300
+3048,Pescara Calcio,300
+3049,AC Venezia 1907,300
+3050,AS Varese 1910,300
+3051,Pisa SC,300
+3052,AS Livorno,300
+3053,Pro Vercelli,300
+3054,Casale,300
+3055,Sampierdarenese,300
+3056,AC Reggiana,300
+3057,Legnano,300
+3058,SPAL 2013 Ferrara,300
+3059,FC Crotone,300
+3060,FC Messina,300
+3061,Calcio Lecco 1912,300
+3062,AC Liguria,300
+3063,US Salernitana,300
+3064,Ternana Calcio,300
+3065,A.C.R. Messina,300
+3066,Benevento Calcio,300
+3067,AC Ancona,300
+3068,Frosinone Calcio,300
+3069,Spezia Calcio,300
+3070,Carpi FC 1909,300
+3071,AC Pistoiese,300
+3072,Treviso FBC 1993,300
+2001,Everton FC,200
+2002,Aston Villa,200
+2003,Liverpool FC,200
+2004,Arsenal FC,200
+2005,Manchester United,200
+2006,Manchester City,200
+2007,West Bromwich Albion,200
+2008,Sunderland AFC,200
+2009,Newcastle United,200
+2010,Tottenham Hotspur,200
+2011,Chelsea FC,200
+2012,Derby County,200
+2013,Wolverhampton Wanderers,200
+2014,Sheffield Wednesday,200
+2015,Bolton Wanderers,200
+2016,Blackburn Rovers,200
+2017,Sheffield United,200
+2018,Nottingham Forest,200
+2019,Stoke City,200
+2020,Middlesbrough FC,200
+2021,Burnley FC,200
+2022,West Ham United,200
+2023,Leeds United,200
+2024,Leicester City,200
+2025,Preston North End,200
+2026,Southampton FC,200
+2027,Birmingham City,200
+2028,Ipswich Town,200
+2029,Coventry City,200
+2030,Huddersfield Town,200
+2031,Norwich City,200
+2032,Portsmouth FC,200
+2033,Queens Park Rangers,200
+2034,Crystal Palace,200
+2035,Charlton Athletic,200
+2036,Blackpool FC,200
+2037,Fulham FC,200
+2038,Cardiff City,200
+2039,Watford FC,200
+2040,Notts County,200
+2041,Birmingham FC,200
+2042,Bury FC,200
+2043,Bristol City,200
+2044,Reading FC,200
+2045,Luton Town,200
+2046,Bradford City,200
+2047,Barnsley FC,200
+2048,Grimsby Town,200
+2049,Wimbledon FC,200
+2050,Millwall FC,200
+2051,Brighton & Hove Albion,200
+2052,Swansea City,200
+2053,Wigan Athletic,200
+2054,Hull City,200
+2055,Oldham Athletic,200
+2056,Brentford FC,200
+2057,Rotherham United,200
+2058,AFC Bournemouth,200
+2059,Crewe Alexandra,200
+2060,Plymouth Argyle,200
+2061,Tranmere Rovers,200
+2062,Accrington FC,200
+2063,Doncaster Rovers,200
+2064,Oxford United,200
+2065,Gillingham FC,200
+2066,Swindon Town,200
+2067,Port Vale FC,200
+2068,Stockport County,200
+2069,Walsall FC,200
+2070,Scunthorpe United,200
+2071,Southend United,200
+2072,Peterborough United,200
+2073,Colchester United,200
+2074,Burton Albion,200
+2075,Darwen,200
+2076,Wycombe Wanderers,200
+2077,Glossop North End,200
+2078,Leyton Orient,200
+2079,Milton Keynes Dons,200
+2080,Northampton Town,200
+2081,Carlisle United,200
+2082,Yeovil Town,200
+1001,FC Barcelona,100
+1002,Athletic Bilbao,100
+1003,Real Madrid,100
+1004,Atlético Madrid,100
+1005,RCD Espanyol Barcelona,100
+1006,Valencia CF,100
+1007,Sevilla FC,100
+1008,Real Sociedad,100
+1009,Real Zaragoza,100
+1010,Celta De Vigo,100
+1011,Real Betis Balompié,100
+1012,Sporting Gijón,100
+1013,Real Valladolid CF,100
+1014,UD Las Palmas,100
+1015,Deportivo de La Coruña,100
+1016,Racing Santander,100
+1017,CA Osasuna,100
+1018,Real Oviedo,100
+1019,Málaga CF,100
+1020,Elche CF,100
+1021,RCD Mallorca,100
+1022,CD Tenerife,100
+1023,Hércules CF,100
+1024,Real Murcia CF,100
+1025,Granada CF,100
+1026,Rayo Vallecano,100
+1027,Deportivo Alavés,100
+1028,Córdoba CF,100
+1029,Villarreal CF,100
+1030,Levante UD,100
+1031,Albacete Balompié,100
+1032,UD Salamanca,100
+1033,CD Numancia,100
+1034,UD Almería,100
+1035,Cádiz CF,100
+1036,Getafe CF,100
+1037,SD Eibar,100
+1038,CE Sabadell,100
+1039,Recreativo Huelva,100
+1040,CD Castellón,100
+1041,Gimnàstic de Tarragona,100
+1042,CD Leganés,100
+1043,CD Logroñés,100
+1044,Girona FC,100
+1045,Xerez CD,100
+1046,AD Alcorcón,100
+1047,SD Huesca,100
+1048,UE Lleida,100
+1049,FC Barcelona B,100
+1050,CD Lugo,100
+1051,SD Compostela,100
+1052,SD Ponferradina,100
+1053,CD Badajoz,100
+1054,Real Jaén,100
+1055,CD Mirandés,100
+1056,Pontevedra CF,100
+1057,Burgos CF,100
+1058,Arenas de Getxo,100
+1059,Polideportivo Ejido,100
+1060,CF Extremadura,100
+1061,Racing Ferrol,100
+1062,Real Madrid B,100
+1063,Real Unión,100
+1064,CD Alcoyano,100
+1065,CP Mérida,100
+1066,CD Toledo,100
+1067,Ciudad de Murcia,100
+1068,FC Cartagena,100
+1069,Atlético Madrid B,100
+1070,Sevilla Atlético,100
+1071,Real Burgos,100
+1072,Villarreal CF B,100
+1073,CE Europa,100
+1074,CF Reus Deportiu,100
+1075,Atlético Malagueño,100
+1076,Terrassa CF,100
+1077,CD Ourense,100
+1078,UE Llagostera,100
+1079,CF Fuenlabrada,100
+1080,Extremadura UD,100
+1081,CD Guadalajara,100
+1082,CD Leonesa,100
+1083,Écija Balompié,100
+1084,Bilbao Athletic,100
+1085,Lorca Deportiva,100
+1086,Lorca FC,100
+1087,Rayo Majadahonda,100
+1088,Atlético Marbella,100
+1089,UD Vecindario,100
+1090,RCD Mallorca B,100
+1091,Algeciras CF,100
+1092,UCAM Murcia CF,100
+1093,UD Logroñés,100
+1094,Universidad Las Palmas,100
+1095,Atlético Tetuán,100
+1096,Alicante CF,100
+1097,Sestao SC,100
+1098,CD Condal,100
